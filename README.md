@@ -1,7 +1,7 @@
 ![logo](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center">Hi There <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px>, I'm Pranjal Jain</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
-<p align="center">Thank You for taking the time to view my GitHub Profile 😄.I am proficient in front-end and back-end web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community.</p>
+<!--<p align="center">Thank You for taking the time to view my GitHub Profile 😄.I am proficient in front-end and back-end web development using MERN. Always motivated and eager to work in tech-based companies. Love to learn new skills and implement them.Building interactive, real-life projects and contributing to the tech community.</p>-->
 
 <!--
 **pranjaljain275/pranjaljain275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
