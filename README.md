@@ -1,5 +1,5 @@
 ![logo](https://jusmarktech.com/public/a/images/pages/web_development.gif)
-<h1 align="center">Hi There :wave: , I'm Pranjal Jain <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px></h1>
+<h1 align="center">Hi There, I'm Pranjal Jain <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px></h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
 
