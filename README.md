@@ -15,7 +15,7 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjaljain275" alt="pranjaljain275" width="800px"/></a> </p>
 <br>
-<p align="center"><a href='https://pranjaljain275.github.io/'><img src="https://img.shields.io/badge/Portfolio-green" width="100px"></a> </p>
+<p align="center"><a href='https://pranjaljain275.github.io'><img src="https://img.shields.io/badge/Portfolio-green" width="100px"></a> </p>
 
 <hr>
 
