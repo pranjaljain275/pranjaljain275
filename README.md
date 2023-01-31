@@ -15,7 +15,7 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranjaljain275" alt="pranjaljain275" width="800px"/></a> </p>
 <br>
-<p align="center"><a href='https://pranjaljain275.github.io'><img src="https://img.shields.io/badge/Portfolio-green" width="100px"></a> </p>
+<p align="center"><a href='https://pranjaljain275.github.io/'><img src="https://img.shields.io/badge/Portfolio-green" width="100px"></a> </p>
 
 <hr>
 
@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **pranjaljain275@gmail.com**
 
-- 👨‍💻 Know more about me **[My Portfolio](https://pranjaljain275.github.io) | [My Resume](https://drive.google.com/file/d/1OrNImyNk2xNE_vsnyQ4a8-c2Mq-uT0Xi/view)**
+- 👨‍💻 Know more about me **[My Portfolio](https://pranjaljain275.github.io/) | [My Resume](https://drive.google.com/file/d/1OrNImyNk2xNE_vsnyQ4a8-c2Mq-uT0Xi/view)**
 
 <hr>
  
