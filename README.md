@@ -9,11 +9,20 @@
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 <p align="center">Thank You for taking the time to view my GitHub Profile 😄. An optimistic, sincere and hardworking individual, wants to enhance knowledge and capabilities by working in a dynamic organization that prides itself in giving substantial responsibility to new talent. Looking forward to working as an accountable and competent employee in an exciting tech company. Skilled in HTML, CSS, JavaScript, NodeJS, Express, MongoDB with proficiency in problem-solving.</p>
 
+<!-- <p align="left"><img src="https://komarev.com/ghpvc/?username=sitansu04&label=Profile%20views&color=0e75b6&style=flat" alt="sitansu04" /> </p> -->
+<!-- <a href='https://sitansu04.github.io/'><img src="https://img.shields.io/badge/Portfolio-green"></a> -->
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sitansu04" alt="sitansu04" /></a></p> -->
+
 <hr>
 
+ <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;ABOUT ME</h3>
+
 - 🌱 I’m currently learning **Backend**
+
 - 👨‍💻 All of my projects are available at [My Github](https://github.com/pranjaljain275)
+
 - 📫 How to reach me pranjaljain275@gmail.com
+
 - 👨‍💻 Know more about me [My Portfolio](https://pranjaljain275.github.io)
 
  <hr>
@@ -45,7 +54,9 @@
   <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman"/>&nbsp;&nbsp;
+  
  <br/>
+  
   <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />&nbsp;&nbsp;
@@ -54,8 +65,11 @@
 </p>
 <hr>
 
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravs4h&show_icons=true&locale=en&layout=compact" alt="sauravs4h" /></p> -->
 
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravs4h&show_icons=true&locale=en" alt="sauravs4h" /></p> -->
 
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravs4h&" alt="sauravs4h" /></p> -->
 
 
 
