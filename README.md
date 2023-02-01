@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node, Express, MongoDB**
 
-- 📫 How to reach me **pranjaljain275@gmail.com**
+- 📫 How to reach me **<a href="#">pranjaljain275@gmail.com</a>**
 
 - 👨‍💻 Know more about me **[My Portfolio](https://pranjaljain275.github.io/) | [My Resume](https://drive.google.com/file/d/1OrNImyNk2xNE_vsnyQ4a8-c2Mq-uT0Xi/view)**
 
