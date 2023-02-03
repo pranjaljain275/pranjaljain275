@@ -27,7 +27,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Node, Express, MongoDB**
 
-- 📫 How to reach me **<a href="#">pranjaljain275@gmail.com</a>**
+- 📫 How to reach me pranjaljain275@gmail.com
 
 - 👨‍💻 Know more about me **[My Portfolio](https://pranjaljain275.github.io/) | [My Resume](https://drive.google.com/file/d/1OrNImyNk2xNE_vsnyQ4a8-c2Mq-uT0Xi/view)**
 
@@ -37,9 +37,9 @@
 <br/>
 
  <p align="left">
-<a href="https://twitter.com/pranjaljain275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranjaljain275" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/pranjaljain275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranjaljain275" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/pranjal-jain-a3bb64170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal-jain-a3bb64170" height="30" width="40" /></a>
-<a href="https://instagram.com/_jain_pranjal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jain_pranjal_" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/_jain_pranjal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jain_pranjal_" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/pranjaljain275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranjaljain275" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pranjaljain275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranjaljain275" height="30" width="40" /></a>
 </p>
