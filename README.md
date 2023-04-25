@@ -21,13 +21,15 @@
 
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;ABOUT ME :</h3>
 
+- A passionate full stack web developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise About JavaScript, NodeJS, ExpressJS and MongoDB. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.
+
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/pranjaljain275)**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Node, Express, MongoDB**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express.js, MongoDB, MySQL, Bootstrap**
 
-<!-- - 📫 How to reach me pranjaljain275@gmail.com -->
+- 📫 How to reach me **pranjaljain275@gmail.com**
 
 - 👨‍💻 Know more about me **[My Portfolio](https://pranjaljain275.github.io/) | [My Resume](https://drive.google.com/file/d/1OrNImyNk2xNE_vsnyQ4a8-c2Mq-uT0Xi/view)**
 
