@@ -39,11 +39,9 @@
 <br/>
 
  <p align="left">
-<a href="https://www.linkedin.com/in/pranjaljain275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranjal-jain-a3bb64170" height="30" width="40" /></a>
-<!--   <a href="https://twitter.com/pranjaljain275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranjaljain275" height="30" width="40" /></a> -->
-<!-- <a href="https://instagram.com/_jain_pranjal_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_jain_pranjal_" height="30" width="40" /></a> -->
-<!-- <a href="https://www.hackerrank.com/pranjaljain275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pranjaljain275" height="30" width="40" /></a> -->
-<!-- <a href="https://www.leetcode.com/pranjaljain275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranjaljain275" height="30" width="40" /></a> -->
+<a href="https://www.linkedin.com/in/pranjaljain275/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="pranjaljain275" height="40" /></a>
+  <a href="https://twitter.com/pranjaljain275" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="pranjaljain275" height="40" /></a>
+<a href="https://instagram.com/_jain_pranjal_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_jain_pranjal_" height="40" /></a>
 </p>
 
 <hr>
@@ -84,7 +82,7 @@
  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" height="40px"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" height="40px"/>&nbsp;&nbsp;
  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" height="40px"/>&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" height="40px"/>&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/linkedin-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier" height="40px"/>&nbsp;&nbsp;
 </p>
 
 <hr>
